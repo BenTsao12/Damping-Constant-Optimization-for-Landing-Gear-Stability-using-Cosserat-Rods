@@ -7,4 +7,6 @@ Project Description:
 
 3. The optimized damping ratio reduced the stable time from 60 seconds to 30 seconds
 
+Users need to download the pyelastica to import the function. Following is the URL:
+
 ### Reference: [PyElastica]([https://github.com/openai/gpt-2](https://github.com/GazzolaLab/PyElastica)https://github.com/GazzolaLab/PyElastica)
