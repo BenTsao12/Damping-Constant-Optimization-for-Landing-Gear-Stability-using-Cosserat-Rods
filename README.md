@@ -1,0 +1,1 @@
+# Damping-Constant-Optimization-for-Landing-Gear-Stability-using-Cosserat-Rods
