@@ -9,4 +9,4 @@ Project Description:
 
 Users need to download the pyelastica to import the function. Following is the URL:https://github.com/GazzolaLab/PyElastica
 
-### Reference: [PyElastica]([https://github.com/GazzolaLab/PyElastica])
+### Reference: [PyElastica](https://github.com/GazzolaLab/PyElastica)
